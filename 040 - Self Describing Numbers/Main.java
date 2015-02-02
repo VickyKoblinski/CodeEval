@@ -19,7 +19,7 @@ import java.io.IOException;
 
 
 
-public class run {
+public class Main {
 
 	/**
 	 * 
